@@ -1,0 +1,10 @@
+---
+title: "Multivariate Normal Example"
+output: html_document
+---
+
+
+## rmvnorm
+
+
+## dmvnorm
